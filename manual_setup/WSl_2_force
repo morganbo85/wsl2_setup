@@ -1,0 +1,4 @@
+# PS Script to upgrade WSL1 to WSL2 and set default to WSL2
+
+
+wsl.exe --set-version Ubuntu-20.04 2
