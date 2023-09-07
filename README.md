@@ -19,5 +19,8 @@ Contains Linux scripts for installing conda3 on wsl
   A quick script to set conda to use conda-forge
   and to shorten the conda prompt.
   * Probably will move this to sbin in the future.
+ 
+  ## If you make any edits
+  Please push to stagging branch first.
 
   
