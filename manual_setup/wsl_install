@@ -1,0 +1,5 @@
+:: Bat file to install Ubuntu-20.04
+
+@echo off 
+
+start cmd.exe /k wsl --install -d Ubuntu-20.04
